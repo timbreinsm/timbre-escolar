@@ -12,7 +12,7 @@
   "horarios_personalizados_manana": [
     {
       "descripcion": "Entrada",
-      "hora": "07:15",
+      "hora": "07:20",
       "tipo": "entrada"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "descripcion": "Fin recreo",
-      "hora": "08:40",
+      "hora": "08:45",
       "tipo": "recreo_fin"
     },
     {
@@ -74,7 +74,7 @@
   "horarios_personalizados_tarde": [
     {
       "descripcion": "Entrada turno tarde",
-      "hora": "13:20",
+      "hora": "13:25",
       "tipo": "entrada"
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "descripcion": "Fin recreo",
-      "hora": "14:45",
+      "hora": "14:50",
       "tipo": "recreo_fin"
     },
     {
@@ -145,8 +145,9 @@
     "lunes": true,
     "martes": false,
     "miercoles": true,
-    "viernes": true
+    "viernes": false
   },
   "modificado_por": "PC",
   "ultima_modificacion": "2025-11-08T16:51:03.950514"
+
 }
