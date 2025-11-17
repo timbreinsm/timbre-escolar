@@ -135,7 +135,7 @@
   ],
   "dias_timbre_fin_turno_manana": {
     "jueves": true,
-    "lunes": false,
+    "lunes": true,
     "martes": true,
     "miercoles": true,
     "viernes": true
@@ -143,7 +143,7 @@
   "dias_timbre_fin_turno_tarde": {
     "jueves": true,
     "lunes": true,
-    "martes": false,
+    "martes": true,
     "miercoles": true,
     "viernes": false
   },
@@ -151,4 +151,5 @@
   "ultima_modificacion": "2025-11-08T16:51:03.950514"
 
 }
+
 
