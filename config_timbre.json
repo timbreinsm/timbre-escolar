@@ -6,7 +6,7 @@
   "timbrar_recreo_largo_inicio": true,
   "timbrar_recreo_largo_fin": true,
   "timbrar_fin_turno": true,
-  "duracion_timbre": 5,
+  "duracion_timbre": 3,
   "ultimo_esp32_ip": "172.16.1.144",
   "horarios_habilitados": true,
   "horarios_personalizados_manana": [
@@ -151,3 +151,4 @@
   "ultima_modificacion": "2025-11-08T16:51:03.950514"
 
 }
+
